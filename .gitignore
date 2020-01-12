@@ -1,0 +1,6 @@
+*.pyc
+/env
+.vscode/
+products.json
+trash/
+__pycache__/
